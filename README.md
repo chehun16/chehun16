@@ -6,8 +6,9 @@
   <img src="https://img.shields.io/badge/html5-E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />&nbsp
 </div>
 <div align="center">
-  <img alt="Python" src ="https://img.shields.io/badge/c-A8B9CC.svg?&style=for-the-badge&logo=C&logoColor=black"/>
-  <img alt="Python" src ="https://img.shields.io/badge/c++-00599C.svg?&style=for-the-badge&logo=cplusplus&logoColor=white"/>
+  <img src ="https://img.shields.io/badge/c-A8B9CC.svg?&style=for-the-badge&logo=C&logoColor=black"/>
+  <img src ="https://img.shields.io/badge/c++-00599C.svg?&style=for-the-badge&logo=cplusplus&logoColor=white"/>
+  <img src="https://img.shields.io/badge/LaTex-008080.svg?style=for-the-badge&logo=latex&logoColor=white" />&nbsp
 </div>
 
 <br>
