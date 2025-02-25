@@ -18,6 +18,7 @@
 </div>
 
 <br>
+
 <h3 align="center">🛠 Technologies 🛠</h3>
 <div align="center">
   <img src="https://img.shields.io/badge/pandas-150458.svg?style=for-the-badge&logo=pandas&logoColor=white" />&nbsp
