@@ -1,4 +1,8 @@
-<!--내용 부분-->
+🏫 B.S. in Aritificial Intelligence, EHWA Womans University
+🚗 I'm interested in Autonomous Driving, 3D Vision, Computer Vision.
+
+<br>
+
 <h3 align="center">🚘 Languages 🚘</h3>
 <div align="center">
   <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />&nbsp
