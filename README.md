@@ -1,5 +1,6 @@
 🏫 B.S. in Aritificial Intelligence, EHWA Womans University
-🚗 I'm interested in Autonomous Driving, 3D Vision, Computer Vision.
+<br>
+❤️ I'm interested in Autonomous Driving, 3D Vision, Computer Vision.
 
 <br>
 
