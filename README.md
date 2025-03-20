@@ -45,7 +45,7 @@
 </div>
 
 <br>
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=깃허브아이디)](https://github.com/nyangche/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nyangche)](https://github.com/nyangche/github-readme-stats)
 <br>
 
 <a href="https://github.com/devxb/gitanimals">
