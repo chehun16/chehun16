@@ -45,8 +45,6 @@
 </div>
 
 <br>
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nyangche&show_icons=true&theme=transparent)
-<br>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nyangche&show_icons=true&theme=transparent&cache_seconds=1800)
 
