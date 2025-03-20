@@ -48,6 +48,10 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nyangche&show_icons=true&theme=transparent)
 <br>
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nyangche&show_icons=true&theme=transparent&cache_seconds=1800)
+
+<br>
+
 <a href="https://github.com/devxb/gitanimals">
   <img src="https://render.gitanimals.org/lines/{nyangche}?pet-id=1" width="1000" height="120"/>
 </a>
