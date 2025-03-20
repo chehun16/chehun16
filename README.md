@@ -17,7 +17,6 @@
     <a href="https://nyangche.github.io">
         <img src="logo.png" alt="Logo" width="30">
     </a>
-    <span>← Visit my page!</span>
   </div>
 
 
