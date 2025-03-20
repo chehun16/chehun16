@@ -16,6 +16,16 @@
     </a>
   </div>
 
+  <div style="display: flex; justify-content: center; align-items: center; gap: 10px;">
+    <a href="https://velog.io/@chehun1216" style="text-decoration: none; display: inline-block;">
+      <img src="https://velog-readme-stats.vercel.app/api/badge?name=chaenyang.log" />
+    </a>
+    <a href="https://nyangche.github.io" style="text-decoration: none; display: inline-block;">
+      <img src="logo.png" width="30" />
+    </a>
+  </div>
+
+
 
   <hr style="width: 80%; border: 1px solid lightgray; margin: 20px auto;">
 </div>
