@@ -13,19 +13,18 @@
     </a>
   </div>
 
-  <div style="display: flex; justify-content: center; align-items: center; gap: 10px;">
+  <div align="center" style="display: flex; align-items: center; gap: 10px;">
     <!-- Velog 뱃지 -->
-    <a href="https://velog.io/@chehun1216" style="text-decoration: none; border-bottom: none;">
-      <img src="https://velog-readme-stats.vercel.app/api/badge?name=chaenyang.log" 
-           style="display: block; border-bottom: none;" />
+    <a href="https://velog.io/@chehun1216" style="text-decoration: none;">
+      <img src="https://velog-readme-stats.vercel.app/api/badge?name=chaenyang.log" style="display: block;" />
     </a>
   
     <!-- Nyangche.github.io 로고 -->
-    <a href="https://nyangche.github.io" style="text-decoration: none; border-bottom: none;">
-      <img src="logo.png" width="30" 
-           style="display: block; border-bottom: none;" />
+    <a href="https://nyangche.github.io" style="text-decoration: none;">
+      <img src="logo.png" width="30" style="display: block;" />
     </a>
   </div>
+
 
 
   <div style="display: flex; justify-content: center; align-items: center; gap: 10px;">
