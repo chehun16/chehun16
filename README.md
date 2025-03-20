@@ -13,17 +13,14 @@
     </a>
   </div>
 
-
-
-  <div style="display: flex; justify-content: center; align-items: center; gap: 10px;">
-    <a href="https://velog.io/@chehun1216" style="text-decoration: none; border-bottom: none;">
-      <img src="https://velog-readme-stats.vercel.app/api/badge?name=chaenyang.log" style="display: block;" />
+<div style="display: flex; justify-content: center; align-items: center; gap: 10px;">
+    <a href="https://velog.io/@chehun1216" style="text-decoration: none; display: inline-flex; align-items: center; border-bottom: none;">
+      <img src="https://velog-readme-stats.vercel.app/api/badge?name=chaenyang.log" style="display: block; border-bottom: none;" />
     </a>
-    <a href="https://nyangche.github.io" style="text-decoration: none; border-bottom: none;">
-      <img src="logo.png" width="30" style="display: block;" />
+    <a href="https://nyangche.github.io">
+      <img src="logo.png" alt="Logo" style="height: 40px;">
     </a>
-  </div>
-
+</div>
 
 
   <hr style="width: 80%; border: 1px solid lightgray; margin: 20px auto;">
