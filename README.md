@@ -71,6 +71,21 @@
   </a>
 </div>
 
+<table align="center" style="border-collapse: collapse; border: none;">
+  <tr style="border: none;">
+    <td style="border: none; text-align: center;">
+      <a href="https://github.com/devxb/gitanimals">
+        <img src="https://render.gitanimals.org/farms/{nyangche}" width="500"/>
+      </a>
+    </td>
+    <td style="border: none; text-align: center;">
+      <a href="https://github.com/devxb/gitanimals">
+        <img src="https://render.gitanimals.org/lines/{nyangche}?pet-id=1" width="500" height="120"/>
+      </a>
+    </td>
+  </tr>
+</table>
+
 
 <br>
 <div>
