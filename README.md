@@ -1,9 +1,9 @@
 <div align="center" style="max-width: 600px; margin: auto; text-align: center;">
   <!-- 프로필 정보 -->
   <div>
-    <h3>🖤 Chehun Han 🖤</h3>
+    <h3>Chehun Han</h3>
     <p>🏫 B.S. in Artificial Intelligence, EHWA Womans University</p>
-    <p>❤️ Interested in 🚗 Autonomous Driving, 3D Vision, Computer Vision.</p>
+    <p>🚗 Interested in Autonomous Driving, 3D Vision, Computer Vision.</p>
     <a href="https://velog.io/@chehun1216">
       <img src="https://velog-readme-stats.vercel.app/api/badge?name=nyangche" />
     </a>
@@ -59,17 +59,22 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nyangche&show_icons=true&theme=transparent&cache_seconds=1800)
 
-
 <br>
 
-<div style="display: flex; align-items: center;">
-  <a href="https://github.com/devxb/gitanimals">
-    <img src="https://render.gitanimals.org/farms/{nyangche}" width="500"/>
-  </a>
-  <a href="https://github.com/devxb/gitanimals">
-    <img src="https://render.gitanimals.org/lines/{nyangche}?pet-id=1" width="500" height="120"/>
-  </a>
-</div>
+<table align="center" style="border-collapse: collapse; border: none;">
+  <tr style="border: none;">
+    <!-- GitHub Stats -->
+    <td style="border: none; text-align: center;">
+      <img src="https://github-readme-stats.vercel.app/api?username=nyangche&show_icons=true&theme=transparent&cache_seconds=1800" />
+    </td>
+    <!-- Top Languages -->
+    <td style="border: none; text-align: center;">
+      <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nyangche&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true&size_weight=0.5&count_weight=0.5"/>
+    </td>
+  </tr>
+</table>
+
+<br>
 
 <table align="center" style="border-collapse: collapse; border: none;">
   <tr style="border: none;">
