@@ -7,8 +7,9 @@
     <a href="https://velog.io/@chehun1216">
       <img src="https://velog-readme-stats.vercel.app/api/badge?name=chaenyang.log" />
     </a>
-    <a href="https://nyangche.github.io">
-      <img src="logo.png" width="150" />
+    <a href="https://nyangche.github.io" style="display: flex; align-items: center; gap: 5px; text-decoration: none;">
+      <img src="images/logo.png" width="20" />
+      <span style="font-size: 14px; color: #4CAF50;">nyangche.github.io</span>
     </a>
   </div>
   <!-- 가로 구분선 -->
