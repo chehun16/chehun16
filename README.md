@@ -9,7 +9,7 @@
     </a>
     &nbsp;&nbsp;
     <a href="https://nyangche.github.io">
-      <img src="images/logo.png" width="20" />
+      <img src="logo.png" width="20" />
     </a>
 
   </div>
