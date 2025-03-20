@@ -5,7 +5,7 @@
     <p>🏫 B.S. in Artificial Intelligence, EHWA Womans University</p>
     <p>🚗 Interested in Autonomous Driving, 3D Vision, Computer Vision.</p>
     <a href="https://velog.io/@chehun1216">
-      <img src="https://velog-readme-stats.vercel.app/api/badge?name=nyangche" />
+      <img src="https://velog-readme-stats.vercel.app/api/badge?name=chaenyang.log" />
     </a>
   </div>
   <!-- 가로 구분선 -->
