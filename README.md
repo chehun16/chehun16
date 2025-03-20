@@ -14,6 +14,21 @@
   </tr>
 </table>
 
+<div align="center" style="display: flex; flex-wrap: wrap; align-items: center; justify-content: center; gap: 20px;">
+  <div style="flex: 1; min-width: 300px; max-width: 500px; text-align: center;">
+    <h3>🖤 Chehun Han 🖤</h3>
+    <p>🏫 B.S. in Artificial Intelligence, EHWA Womans University</p>
+    <p>❤️ Interested in 🚗 Autonomous Driving, 3D Vision, Computer Vision.</p>
+    <a href="https://velog.io/@chehun1216">
+      <img src="https://velog-readme-stats.vercel.app/api/badge?name=nyangche" />
+    </a>
+  </div>
+  <div style="flex: 1; min-width: 300px; max-width: 500px; text-align: center;">
+    <img src="https://github-readme-stats.vercel.app/api?username=nyangche&show_icons=true&theme=transparent&cache_seconds=1800" style="max-width: 100%;" />
+  </div>
+</div>
+
+
 
 <br>
 
