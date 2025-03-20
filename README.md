@@ -2,7 +2,7 @@
   <!-- 프로필 정보 -->
   <div>
     <h3>Chehun Han</h3>
-    <p>🏫 B.S. in Artificial Intelligence, EHWA Womans University</p>
+    <p>🏫 B.S. in Artificial Intelligence, EWHA Womans University</p>
     <p>🚗 Interested in Autonomous Driving, 3D Vision, Computer Vision.</p>
     <a href="https://velog.io/@chehun1216">
       <img src="https://velog-readme-stats.vercel.app/api/badge?name=chaenyang.log" />
