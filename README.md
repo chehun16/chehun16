@@ -1,7 +1,19 @@
-<table align="center" style="border-collapse: collapse; border: none; width: 100%;">
-  <tr style="border: none;">
+<!-- 테두리 제거 스타일 적용 -->
+<style>
+  table {
+    border-collapse: collapse;
+    border: none;
+    width: 100%;
+  }
+  tr, td {
+    border: none !important;
+  }
+</style>
+
+<table align="center">
+  <tr>
     <!-- 왼쪽 프로필 정보 -->
-    <td style="border: none; vertical-align: top; padding-right: 20px; width: 50%;">
+    <td style="vertical-align: top; padding-right: 20px; width: 50%;">
       <h3 align="center">🖤 Chehun Han 🖤</h3>
       <p>🏫 B.S. in Artificial Intelligence, EHWA Womans University</p>
       <p>❤️ Interested in 🚗 Autonomous Driving, 3D Vision, Computer Vision.</p>
@@ -10,11 +22,12 @@
       </a>
     </td>
     <!-- 오른쪽 GitHub Stats -->
-    <td style="border: none; vertical-align: top; width: 50%;">
+    <td style="vertical-align: top; width: 50%;">
       <img src="https://github-readme-stats.vercel.app/api?username=nyangche&show_icons=true&theme=transparent&cache_seconds=1800" />
     </td>
   </tr>
 </table>
+
 
 
 
