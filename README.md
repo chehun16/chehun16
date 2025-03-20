@@ -17,7 +17,7 @@
 
 ### Experiences
 
-<a href="https://deepdaiv.oopy.io/" style="color:#264a8e; text-decoration:none; font-weight:bold; display:inline-block;">deepdaiv</a>  
+<a href="https://deepdaiv.oopy.io/" style="color:#264a8e; text-decoration:none;"><b>deepdaiv</b></a>
 <span style="color:#6c757d; font-size:12px;">Apr. 2023 ~ Feb. 2025</span>  
 
 
