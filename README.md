@@ -48,26 +48,15 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nyangche&show_icons=true&theme=transparent&cache_seconds=1800)
 
-<br>
-
-<a href="https://github.com/devxb/gitanimals">
-  <img src="https://render.gitanimals.org/lines/{nyangche}?pet-id=1" width="1000" height="120"/>
-</a>
-
-<br>
-
-<a href="https://github.com/devxb/gitanimals">
-  <img src="https://render.gitanimals.org/farms/{nyangche}"/>
-</a>
 
 <br>
 
 <div style="display: flex; align-items: center;">
   <a href="https://github.com/devxb/gitanimals">
-    <img src="https://render.gitanimals.org/lines/{nyangche}?pet-id=1" width="500" height="120"/>
+    <img src="https://render.gitanimals.org/farms/{nyangche}" width="500"/>
   </a>
   <a href="https://github.com/devxb/gitanimals">
-    <img src="https://render.gitanimals.org/farms/{nyangche}" width="500"/>
+    <img src="https://render.gitanimals.org/lines/{nyangche}?pet-id=1" width="500" height="120"/>
   </a>
 </div>
 
