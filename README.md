@@ -3,7 +3,7 @@
   <div>
     <h3 style="display: flex; align-items: center; gap: 5px;">
       Chehun Han 
-      <img src="kuma.jpg" width="40" height="40" />
+      <img src="kuma.jpg" width="50" height="50" />
     </h3>
     <p>🏫 B.S. in Artificial Intelligence, EWHA Womans University</p>
     <p>🚗 Interested in Autonomous Driving, 3D Vision, Computer Vision.</p>
