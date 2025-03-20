@@ -29,6 +29,9 @@
   <hr style="width: 80%; border: 1px solid lightgray; margin: 20px auto;">
 </div>
 
+<a href="https://nyangche.github.io">
+    <img src="logo.png" alt="Logo" width="200">
+</a>
 
 
 
