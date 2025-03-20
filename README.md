@@ -1,10 +1,17 @@
-<h3 align="center">🖤 Chehun Han 🖤</h3>
-🏫 B.S. in Aritificial Intelligence, EHWA Womans University
-<br>
-❤️ Interested in 🚗 Autonomous Driving, 3D Vision, Computer Vision.
-<br>
+<div align="center" style="display: flex; align-items: center; justify-content: center; gap: 20px;">
+  <div>
+    <h3 align="center">🖤 Chehun Han 🖤</h3>
+    <p>🏫 B.S. in Artificial Intelligence, EHWA Womans University</p>
+    <p>❤️ Interested in 🚗 Autonomous Driving, 3D Vision, Computer Vision.</p>
+    <a href="https://velog.io/@chehun1216">
+      <img src="https://velog-readme-stats.vercel.app/api/badge?name=nyangche" />
+    </a>
+  </div>
+  <div>
+    <img src="https://github-readme-stats.vercel.app/api?username=nyangche&show_icons=true&theme=transparent&cache_seconds=1800" />
+  </div>
+</div>
 
-[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api/badge?name=nyangche)](https://velog.io/@chehun1216)
 
 
 <table align="center" style="border-collapse: collapse; border: none;">
