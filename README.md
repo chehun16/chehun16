@@ -3,7 +3,7 @@
   <div>
     <h3 style="display: flex; align-items: center; gap: 8px;">
       Chehun Han 
-      <img src="images/kuma.jpg" width="50" height="50" style="vertical-align: middle;" />
+      <img src="kuma.jpg" width="50" height="50" style="vertical-align: middle;" />
     </h3>
 
     <p>🏫 B.S. in Artificial Intelligence, EWHA Womans University</p>
