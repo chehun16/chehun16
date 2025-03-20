@@ -8,11 +8,11 @@
   <p>🚗 Interested in Autonomous Driving, 3D Vision, Computer Vision.</p>
 
   <div style="display: flex; justify-content: center; align-items: center; gap: 10px;">
-    <a href="https://velog.io/@chehun1216" style="text-decoration: none;">
-      <img src="https://velog-readme-stats.vercel.app/api/badge?name=chaenyang.log" />
+    <a href="https://velog.io/@chehun1216" style="text-decoration: none; display: inline-flex; align-items: center;">
+      <img src="https://velog-readme-stats.vercel.app/api/badge?name=chaenyang.log" style="display: block;" />
     </a>
-    <a href="https://nyangche.github.io" style="text-decoration: none;">
-      <img src="logo.png" width="30" />
+    <a href="https://nyangche.github.io" style="text-decoration: none; display: inline-flex; align-items: center;">
+      <img src="logo.png" width="30" style="display: block;" />
     </a>
   </div>
 
