@@ -61,17 +61,18 @@
 
 <br>
 
-<div align="center" style="display: flex; justify-content: center; align-items: center; flex-wrap: wrap; gap: 20px; max-width: 900px; margin: auto;">
+<div align="center" style="display: flex; justify-content: center; align-items: center; gap: 20px; max-width: 900px; margin: auto;">
   <!-- GitHub Stats -->
-  <div style="flex: 1; min-width: 300px; max-width: 450px; text-align: center;">
-    <img style="width: 100%; max-width: 100%;" src="https://github-readme-stats.vercel.app/api?username=nyangche&show_icons=true&theme=transparent&cache_seconds=1800" />
+  <div style="flex: 1; min-width: 300px; max-width: 450px;">
+    <img style="width: 100%; max-width: 450px;" src="https://github-readme-stats.vercel.app/api?username=nyangche&show_icons=true&theme=transparent&cache_seconds=1800" />
   </div>
-  
+
   <!-- Top Languages -->
-  <div style="flex: 1; min-width: 300px; max-width: 450px; text-align: center;">
-    <img style="width: 100%; max-width: 100%;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nyangche&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true&size_weight=0.5&count_weight=0.5"/>
+  <div style="flex: 1; min-width: 300px; max-width: 450px;">
+    <img style="width: 100%; max-width: 450px;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nyangche&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true&size_weight=0.5&count_weight=0.5"/>
   </div>
 </div>
+
 
 
 
