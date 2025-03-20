@@ -18,6 +18,8 @@
 ## Experiences
 
 ### <a href="https://deepdaiv.oopy.io/" style="color:#264a8e; text-decoration:none;"><b>deepdaiv</b></a>  
+
+### <a href="https://deepdaiv.oopy.io/" style="color:#264a8e; text-decoration:none; font-weight:bold; font-family:'Poppins', sans-serif;">deepdaiv</a>  
 <span style="color:#6c757d; font-size:14px;">Apr. 2023 ~ Feb. 2025</span>  
 
 - ’23s Data Analysis  
