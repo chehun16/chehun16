@@ -7,8 +7,9 @@
     <a href="https://velog.io/@chehun1216">
       <img src="https://velog-readme-stats.vercel.app/api/badge?name=chaenyang.log" />
     </a>
+    &nbsp;&nbsp;
     <a href="https://nyangche.github.io">
-      <img src="logo.png" width="20" /> <b style="color: black;">nyangche.github.io</b>
+      <img src="images/logo.png" width="20" />
     </a>
 
   </div>
