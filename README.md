@@ -1,9 +1,8 @@
 <div align="center" style="max-width: 600px; margin: auto; text-align: center;">
-  <!-- 프로필 정보 -->
   <div>
     <h3 style="display: flex; align-items: center; gap: 5px;">
       Chehun Han 
-      <img src="images/kuma.jpg" width="50" height="50" />
+      <img src="kuma.jpg" width="50" height="50" />
     </h3>
 
     <p>🏫 B.S. in Artificial Intelligence, EWHA Womans University</p>
@@ -15,8 +14,6 @@
     <a href="https://nyangche.github.io">
       <img src="logo.png" width="30" />
     </a>
-
-
   </div>
   <!-- 가로 구분선 -->
   <hr style="width: 80%; border: 1px solid lightgray; margin: 20px auto;">
