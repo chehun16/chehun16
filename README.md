@@ -15,7 +15,7 @@
   
   <div style="display: flex; justify-content: center; align-items: center; gap: 10px;">
     <a href="https://nyangche.github.io">
-        <img src="logo.png" alt="Logo" width="30"> visit my homepage!
+        <img src="logo.png" alt="Logo" width="30">
     </a>
   </div>
 
