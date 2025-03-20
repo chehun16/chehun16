@@ -7,12 +7,12 @@
     <a href="https://velog.io/@chehun1216">
       <img src="https://velog-readme-stats.vercel.app/api/badge?name=chaenyang.log" />
     </a>
-    <!--
-    &nbsp;&nbsp;
+
+    &nbsp;&nbsp;&nbsp;
     <a href="https://nyangche.github.io">
-      <img src="logo.png" width="20" />
+      <img src="logo.png" width="30" />
     </a>
-    -->
+
 
   </div>
   <!-- 가로 구분선 -->
