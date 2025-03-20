@@ -1,6 +1,10 @@
+<h3 align="center">🖤 Chehun Han 🖤</h3>
 🏫 B.S. in Aritificial Intelligence, EHWA Womans University
 <br>
 ❤️ Interested in 🚗 Autonomous Driving, 3D Vision, Computer Vision.
+
+[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api/badge?name=nyangche)](https://velog.io/@chehun1216)
+
 
 <br>
 
