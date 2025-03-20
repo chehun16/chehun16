@@ -8,14 +8,8 @@
       <img src="https://velog-readme-stats.vercel.app/api/badge?name=nyangche" />
     </a>
   </div>
-
   <!-- 가로 구분선 -->
   <hr style="width: 80%; border: 1px solid lightgray; margin: 20px auto;">
-
-  <!-- GitHub Stats -->
-  <div>
-    <img src="https://github-readme-stats.vercel.app/api?username=nyangche&show_icons=true&theme=transparent&cache_seconds=1800" style="max-width: 100%;" />
-  </div>
 </div>
 
 
