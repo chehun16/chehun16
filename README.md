@@ -15,11 +15,9 @@
 
 <br>
 
-## Experiences
+### Experiences
 
-### <a href="https://deepdaiv.oopy.io/" style="color:#264a8e; text-decoration:none;"><b>deepdaiv</b></a>  
-
-### <a href="https://deepdaiv.oopy.io/" style="color:#264a8e; text-decoration:none; font-weight:bold; font-family:'Poppins', sans-serif;">deepdaiv</a>  
+<a href="https://deepdaiv.oopy.io/" style="color:#264a8e; text-decoration:none;"><b>deepdaiv</b></a>  
 <span style="color:#6c757d; font-size:14px;">Apr. 2023 ~ Feb. 2025</span>  
 
 - ’23s Data Analysis  
@@ -28,7 +26,7 @@
 - ’24s Deep Learning Architecture  
 - ’24f Self driving  
 
-### **Research Intern**  
+**Research Intern**  
 <span style="color:#6c757d; font-size:14px;">PAI Lab @EWHA Mar. 2024 ~ Jan. 2025</span>
 
 
