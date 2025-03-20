@@ -8,8 +8,9 @@
       <img src="https://velog-readme-stats.vercel.app/api/badge?name=chaenyang.log" />
     </a>
     <a href="https://nyangche.github.io">
-      <img src="images/logo.png" width="20"> nyangche.github.io
+      <img src="logo.png" width="20" /> <b style="color: black;">nyangche.github.io</b>
     </a>
+
   </div>
   <!-- 가로 구분선 -->
   <hr style="width: 80%; border: 1px solid lightgray; margin: 20px auto;">
