@@ -7,6 +7,9 @@
     <a href="https://velog.io/@chehun1216">
       <img src="https://velog-readme-stats.vercel.app/api/badge?name=chaenyang.log" />
     </a>
+    <a href="https://nyangche.github.io">
+      <img src="logo.png" width="150" />
+    </a>
   </div>
   <!-- 가로 구분선 -->
   <hr style="width: 80%; border: 1px solid lightgray; margin: 20px auto;">
