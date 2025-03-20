@@ -1,10 +1,11 @@
 <div align="center" style="max-width: 600px; margin: auto; text-align: center;">
   <!-- 프로필 정보 -->
   <div>
-    <h3 style="display: flex; align-items: center; gap: 5px;">
+    <h3 style="display: flex; align-items: center; gap: 8px;">
       Chehun Han 
-      <img src="kuma.jpg" width="50" height="50" />
+      <img src="images/kuma.jpg" width="50" height="50" style="vertical-align: middle;" />
     </h3>
+
     <p>🏫 B.S. in Artificial Intelligence, EWHA Womans University</p>
     <p>🚗 Interested in Autonomous Driving, 3D Vision, Computer Vision.</p>
     <a href="https://velog.io/@chehun1216">
