@@ -1,26 +1,24 @@
-<div align="center" style="max-width: 600px; margin: auto; text-align: center;">
-  <div>
-    <h3 style="display: flex; align-items: center; gap: 8px; justify-content: center;">
-      Chehun Han 
-      <img src="kuma.jpg" width="50" height="50" style="vertical-align: middle;" />
-    </h3>
+<div align="center">
+  <h3 style="display: flex; align-items: center; justify-content: center; gap: 8px;">
+    Chehun Han 
+    <img src="kuma.jpg" width="50" height="50" style="vertical-align: middle;" />
+  </h3>
 
-    <p>🏫 B.S. in Artificial Intelligence, EWHA Womans University</p>
-    <p>🚗 Interested in Autonomous Driving, 3D Vision, Computer Vision.</p>
+  <p>🏫 B.S. in Artificial Intelligence, EWHA Womans University</p>
+  <p>🚗 Interested in Autonomous Driving, 3D Vision, Computer Vision.</p>
 
-    <div style="display: flex; justify-content: center; align-items: center; gap: 10px;">
-      <a href="https://velog.io/@chehun1216">
-        <img src="https://velog-readme-stats.vercel.app/api/badge?name=chaenyang.log" />
-      </a>
-      <a href="https://nyangche.github.io">
-        <img src="logo.png" width="30" />
-      </a>
-    </div>
+  <div style="display: flex; justify-content: center; align-items: center; gap: 10px;">
+    <a href="https://velog.io/@chehun1216">
+      <img src="https://velog-readme-stats.vercel.app/api/badge?name=chaenyang.log" />
+    </a>
+    <a href="https://nyangche.github.io">
+      <img src="logo.png" width="30" />
+    </a>
   </div>
 
-  <!-- 가로 구분선 -->
   <hr style="width: 80%; border: 1px solid lightgray; margin: 20px auto;">
 </div>
+
 
 
 
