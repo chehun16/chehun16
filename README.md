@@ -7,7 +7,7 @@
 [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api/badge?name=nyangche)](https://velog.io/@chehun1216)
 
 
-<table align="center">
+<table align="center" border="0">
   <tr>
     <td>
       <h3 align="center">🖤 Chehun Han 🖤</h3>
