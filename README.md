@@ -14,18 +14,24 @@
   </tr>
 </table>
 
-<div align="center" style="display: flex; flex-wrap: wrap; align-items: center; justify-content: center; gap: 20px;">
-  <div style="flex: 1; min-width: 300px; max-width: 500px; text-align: center;">
-    <h3>🖤 Chehun Han 🖤</h3>
-    <p>🏫 B.S. in Artificial Intelligence, EHWA Womans University</p>
-    <p>❤️ Interested in 🚗 Autonomous Driving, 3D Vision, Computer Vision.</p>
-    <a href="https://velog.io/@chehun1216">
-      <img src="https://velog-readme-stats.vercel.app/api/badge?name=nyangche" />
-    </a>
-  </div>
-  <div style="flex: 1; min-width: 300px; max-width: 500px; text-align: center;">
-    <img src="https://github-readme-stats.vercel.app/api?username=nyangche&show_icons=true&theme=transparent&cache_seconds=1800" style="max-width: 100%;" />
-  </div>
+<div align="center">
+  <table style="width: 80%; max-width: 800px; border-collapse: collapse; border: none;">
+    <tr style="border: none;">
+      <!-- 왼쪽 프로필 정보 -->
+      <td style="border: none; text-align: center; vertical-align: top; padding-right: 20px; width: 50%;">
+        <h3>🖤 Chehun Han 🖤</h3>
+        <p>🏫 B.S. in Artificial Intelligence, EHWA Womans University</p>
+        <p>❤️ Interested in 🚗 Autonomous Driving, 3D Vision, Computer Vision.</p>
+        <a href="https://velog.io/@chehun1216">
+          <img src="https://velog-readme-stats.vercel.app/api/badge?name=nyangche" />
+        </a>
+      </td>
+      <!-- 오른쪽 GitHub Stats -->
+      <td style="border: none; text-align: center; vertical-align: top; width: 50%;">
+        <img src="https://github-readme-stats.vercel.app/api?username=nyangche&show_icons=true&theme=transparent&cache_seconds=1800" style="max-width: 100%;" />
+      </td>
+    </tr>
+  </table>
 </div>
 
 
