@@ -35,10 +35,10 @@
 
 
 - ’23s Data Analysis  
-- ’23f Audio  
-- ’24w Audio  
+- ’23f Audio Deep Learning
+- ’24w Audio Deep Learning
 - ’24s Deep Learning Architecture  
-- ’24f Self driving  
+- ’24f Self Driving  
 
 **Research Intern**  
 <span style="color:#6c757d; font-size:14px;">PAI Lab @EWHA Mar. 2024 ~ Jan. 2025</span>
