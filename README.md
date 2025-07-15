@@ -14,7 +14,7 @@
   </div>
   
   <div style="display: flex; justify-content: center; align-items: center; gap: 10px;">
-    <a href="https://nyangche.github.io">
+    <a href="https://chehun16.github.io">
         <img src="logo.png" alt="Logo" width="30">
     </a>
   </div>
@@ -48,8 +48,8 @@
 
 
 <div style="display: flex; justify-content: space-between;">
-  <img src="https://github-readme-stats.vercel.app/api?username=nyangche&show_icons=true&theme=transparent&cache_seconds=1800" height="200"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nyangche&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true&size_weight=0.5&count_weight=0.5" height="200"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=chehun16&show_icons=true&theme=transparent&cache_seconds=1800" height="200"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chehun16&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true&size_weight=0.5&count_weight=0.5" height="200"/>
 </div>
 
 
@@ -59,12 +59,12 @@
   <tr style="border: none;">
     <td style="border: none; text-align: center;">
       <a href="https://github.com/devxb/gitanimals">
-        <img src="https://render.gitanimals.org/farms/{nyangche}" width="500"/>
+        <img src="https://render.gitanimals.org/farms/{chehun16}" width="500"/>
       </a>
     </td>
     <td style="border: none; text-align: center;">
       <a href="https://github.com/devxb/gitanimals">
-        <img src="https://render.gitanimals.org/lines/{nyangche}?pet-id=1" width="500" height="120"/>
+        <img src="https://render.gitanimals.org/lines/{chehun16}?pet-id=1" width="500" height="120"/>
       </a>
     </td>
   </tr>
