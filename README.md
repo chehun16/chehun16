@@ -42,7 +42,7 @@
 
 **Research Intern**  
 <span style="color:#6c757d; font-size:14px;">PAI Lab @EWHA Mar. 2024 ~ Jan. 2025</span>
-
+<span style="color:#6c757d; font-size:14px;">Computer Graphics Lab @POSTECH Jun. 2025 ~ Aug. 2025</span>
 
 <br>
 
@@ -51,22 +51,4 @@
   <img src="https://github-readme-stats.vercel.app/api?username=chehun16&show_icons=true&theme=transparent&cache_seconds=1800" height="200"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chehun16&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true&size_weight=0.5&count_weight=0.5" height="200"/>
 </div>
-
-
-<br>
-
-<table align="center" style="border-collapse: collapse; border: none;">
-  <tr style="border: none;">
-    <td style="border: none; text-align: center;">
-      <a href="https://github.com/devxb/gitanimals">
-        <img src="https://render.gitanimals.org/farms/{chehun16}" width="500"/>
-      </a>
-    </td>
-    <td style="border: none; text-align: center;">
-      <a href="https://github.com/devxb/gitanimals">
-        <img src="https://render.gitanimals.org/lines/{chehun16}?pet-id=1" width="500" height="120"/>
-      </a>
-    </td>
-  </tr>
-</table>
 
