@@ -42,6 +42,7 @@
 
 **Research Intern**  
 <span style="color:#6c757d; font-size:14px;">PAI Lab @EWHA Mar. 2024 ~ Jan. 2025</span>
+<br>
 <span style="color:#6c757d; font-size:14px;">Computer Graphics Lab @POSTECH Jun. 2025 ~ Aug. 2025</span>
 
 <br>
