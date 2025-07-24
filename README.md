@@ -5,19 +5,7 @@
   </h3>
 
   <p>🏫 B.S. in Artificial Intelligence, EWHA Womans University</p>
-  <p>🚗 Interested in Autonomous Driving, 3D Vision, Computer Vision.</p>
-
-  <div style="display: flex; justify-content: center; align-items: center; gap: 10px;">
-    <a href="https://velog.io/@chehun1216" style="text-decoration: none; display: inline-flex; align-items: center; border-bottom: none; outline: none; border: none;">
-      <img src="https://velog-readme-stats.vercel.app/api/badge?name=chaenyang.log" style="display: block; border-bottom: none; outline: none; border: none;" />
-    </a>
-  </div>
-  
-  <div style="display: flex; justify-content: center; align-items: center; gap: 10px;">
-    <a href="https://chehun16.github.io">
-        <img src="logo.png" alt="Logo" width="30">
-    </a>
-  </div>
+  <p>🚗 Interested in Autonomous Driving, 3D Reconstruction.</p>
 
 
   <hr style="width: 80%; border: 1px solid lightgray; margin: 20px auto;">
