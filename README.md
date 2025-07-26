@@ -11,33 +11,3 @@
   <hr style="width: 80%; border: 1px solid lightgray; margin: 20px auto;">
 </div>
 
-
-
-
-<br>
-
-### Experiences
-
-<a href="https://deepdaiv.oopy.io/" style="color:#264a8e; text-decoration:none;"><b>deepdaiv</b></a>
-<span style="color:#6c757d; font-size:12px;">Apr. 2023 ~ Feb. 2025</span>  
-
-
-- ’23s Data Analysis  
-- ’23f Audio Deep Learning
-- ’24w Audio Deep Learning
-- ’24s Deep Learning Architecture  
-- ’24f Self Driving  
-
-**Research Intern**  
-<span style="color:#6c757d; font-size:14px;">PAI Lab @EWHA Mar. 2024 ~ Jan. 2025</span>
-<br>
-<span style="color:#6c757d; font-size:14px;">Computer Graphics Lab @POSTECH Jun. 2025 ~ Aug. 2025</span>
-
-<br>
-
-
-<div style="display: flex; justify-content: space-between;">
-  <img src="https://github-readme-stats.vercel.app/api?username=chehun16&show_icons=true&theme=transparent&cache_seconds=1800" height="200"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chehun16&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true&size_weight=0.5&count_weight=0.5" height="200"/>
-</div>
-
