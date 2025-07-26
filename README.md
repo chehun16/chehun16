@@ -4,7 +4,7 @@ B.S. in Artificial Intelligence @EWHA Womans University
 
 ### Research Interest 
 
-- Autonomous Driving
+- Autonomous Driving 🚗
 - 3D Reconstruction
 
 Visit my [website](https://chehun16.github.io/) :) 
