@@ -1,6 +1,6 @@
 ### Chehun Han 
 
-B.S. in Artificial Intelligence, EWHA Womans University
+B.S. in Artificial Intelligence @EWHA Womans University
 
 ### Research Interest 
 
