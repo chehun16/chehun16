@@ -1,5 +1,4 @@
 ### Chehun Han 
-<img src="kuma.jpg" width="50" height="50" style="vertical-align: middle;" />
 
 B.S. in Artificial Intelligence, EWHA Womans University
 
@@ -7,3 +6,7 @@ B.S. in Artificial Intelligence, EWHA Womans University
 
 - Autonomous Driving
 - 3D Reconstruction
+
+Visit my [website](https://chehun16.github.io/) :) 
+
+<img src="kuma.jpg" width="50" height="50" style="vertical-align: middle;" />
